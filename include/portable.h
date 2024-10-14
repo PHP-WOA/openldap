@@ -482,6 +482,7 @@
 
 /* Define to 1 if you have the <sasl/sasl.h> header file. */
 /* #undef HAVE_SASL_SASL_H */
+#define HAVE_SASL_SASL_H 1
 
 /* define if your SASL library has sasl_version() */
 #define HAVE_SASL_VERSION 1
